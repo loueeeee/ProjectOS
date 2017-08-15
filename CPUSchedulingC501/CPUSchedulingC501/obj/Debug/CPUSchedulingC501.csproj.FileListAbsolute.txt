@@ -1,0 +1,14 @@
+c:\users\lou\documents\visual studio 2012\Projects\CPUSchedulingC501\CPUSchedulingC501\bin\Debug\CPUSchedulingC501.exe.config
+c:\users\lou\documents\visual studio 2012\Projects\CPUSchedulingC501\CPUSchedulingC501\bin\Debug\CPUSchedulingC501.exe
+c:\users\lou\documents\visual studio 2012\Projects\CPUSchedulingC501\CPUSchedulingC501\bin\Debug\CPUSchedulingC501.pdb
+c:\users\lou\documents\visual studio 2012\Projects\CPUSchedulingC501\CPUSchedulingC501\obj\Debug\CPUSchedulingC501.csprojResolveAssemblyReference.cache
+c:\users\lou\documents\visual studio 2012\Projects\CPUSchedulingC501\CPUSchedulingC501\obj\Debug\CPUSchedulingC501.Properties.Resources.resources
+c:\users\lou\documents\visual studio 2012\Projects\CPUSchedulingC501\CPUSchedulingC501\obj\Debug\CPUSchedulingC501.csproj.GenerateResource.Cache
+c:\users\lou\documents\visual studio 2012\Projects\CPUSchedulingC501\CPUSchedulingC501\obj\Debug\CPUSchedulingC501.exe
+c:\users\lou\documents\visual studio 2012\Projects\CPUSchedulingC501\CPUSchedulingC501\obj\Debug\CPUSchedulingC501.pdb
+C:\Users\Lou\Documents\Visual Studio 2012\Projects\CPUSchedulingC501\CPUSchedulingC501\bin\Debug\C501OSlib.dll
+C:\Users\Lou\Documents\Visual Studio 2012\Projects\CPUSchedulingC501\CPUSchedulingC501\bin\Debug\C501OSlib.pdb
+C:\Users\Lou\Documents\Visual Studio 2012\Projects\CPUSchedulingC501\CPUSchedulingC501\obj\Debug\CPUSchedulingC501.ShortestProcessFirst.resources
+C:\Users\Lou\Documents\Visual Studio 2012\Projects\CPUSchedulingC501\CPUSchedulingC501\obj\Debug\CPUSchedulingC501.RoundRobin.resources
+C:\Users\Lou\Documents\Visual Studio 2012\Projects\CPUSchedulingC501\CPUSchedulingC501\obj\Debug\CPUSchedulingC501.CPUSchedulingAlgorithm.resources
+C:\Users\Lou\Documents\Visual Studio 2012\Projects\CPUSchedulingC501\CPUSchedulingC501\obj\Debug\CPUSchedulingC501.FirstComeFirstServed.resources
